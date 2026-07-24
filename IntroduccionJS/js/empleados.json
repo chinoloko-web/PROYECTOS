@@ -1,0 +1,25 @@
+{
+    "empleados": [
+        {
+            "id": 1,
+            "nombre": "Juan",
+            "apellido": "Pérez",
+            "edad": 30,
+            "departamento": "Ventas"
+        },
+        {
+            "id": 2,
+            "nombre": "María",
+            "apellido": "Gómez",
+            "edad": 25,
+            "departamento": "Marketing"
+        },
+        {
+            "id": 3,
+            "nombre": "Carlos",
+            "apellido": "López",
+            "edad": 28,
+            "departamento": "Desarrollo"
+        }
+    ]
+}
